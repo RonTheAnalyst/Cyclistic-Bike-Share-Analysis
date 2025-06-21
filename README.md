@@ -74,7 +74,8 @@ Cyclistic’s marketing team believes that casual riders could be converted into
 
 ## 📈 Tableau Dashboard Overview
 
-🔗 **[Video Walkthrough (Google Drive)](https://drive.google.com/file/d/1bbQvFRJ6trD9dfYsgzhKXg4Z4KxpQUa9/view?usp=sharing)**
+* 🔗 **[Video Walkthrough (Google Drive)](https://drive.google.com/file/d/1bbQvFRJ6trD9dfYsgzhKXg4Z4KxpQUa9/view?usp=sharing)**
+* 🔗 **[Tableau](https://public.tableau.com/views/CyclisticTheWayofLife_17400687878700/CyclisticRideTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 | Dashboard            | Features                                                           |
 | -------------------- | ------------------------------------------------------------------ |
