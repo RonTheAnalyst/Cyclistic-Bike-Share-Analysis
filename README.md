@@ -142,6 +142,7 @@ Cyclistic-Bike-Share-Analysis/
 
 * 📘 **[Full Report](https://drive.google.com/file/d/1fN34FFa4RSH2AJX2jWp9xAJYI0lxEYzl/view?usp=sharing)**
 * 🎥 **[Dashboard Walkthrough Video](https://drive.google.com/file/d/1bbQvFRJ6trD9dfYsgzhKXg4Z4KxpQUa9/view?usp=sharing)**
+* 📈 **[Tableau](https://public.tableau.com/views/CyclisticTheWayofLife_17400687878700/CyclisticRideTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
