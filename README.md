@@ -30,7 +30,8 @@ Cyclistic’s marketing team believes that casual riders could be converted into
 | NOAA Weather Data           | Hourly weather records (temperature, wind, humidity) from Midway Airport Station.             |
 
 > ⬇️ **Raw datasets were \~1GB. Final processed datasets (\~10MB total) are included in the `Dataset` folder.**
-> **[Raw dataset] (https://divvy-tripdata.s3.amazonaws.com/index.html).**
+
+* 🔗 **[Raw Dataset](https://divvy-tripdata.s3.amazonaws.com/index.html)**
 
 ---
 
@@ -50,7 +51,7 @@ Cyclistic’s marketing team believes that casual riders could be converted into
 
 * **Peak casual ridership**: July (except 2024)
 * **Weekday vs. Weekend**: Members dominate weekdays, casuals dominate weekends
-* **Electric bikes**: Surging among members in 2024 (82% usage)
+* **Electric bikes**: Surging among members in 2024 
 * **Docked bikes**: Discontinued after 2023
 
 ### 2️⃣ Mean Ride Time
@@ -67,7 +68,7 @@ Cyclistic’s marketing team believes that casual riders could be converted into
 
 * Highest ride volumes occur between **20–29°C**.
 * Dropoff observed beyond **30°C** and below **5°C**.
-* Humidity over 85% or wind above 6 m/s sharply reduces ridership.
+* Humidity over 80% or wind above 6 m/s sharply reduces ridership.
 
 ---
 
@@ -147,7 +148,7 @@ Cyclistic-Bike-Share-Analysis/
 
 1. Clone or download the repo.
 2. Explore the `Dataset` folder for CSV insights.
-3. Use `R Code` to replicate analysis (via RStudio).
+3. Review the `R-scripts` to understand the full analytical workflow (note: scripts are non-runnable unless raw data is locally available).
 4. View Tableau screenshots/video for interactive visuals.
 5. Read `Report` for business case + final strategy.
 
@@ -155,7 +156,7 @@ Cyclistic-Bike-Share-Analysis/
 
 ## 👤 About the Author
 
-I'm **Rohan Jha**, an aspiring data analyst with a background in Physics and strong focus on user behavior, pattern recognition, and decision science. This project is a reflection of both my analytical thinking and narrative-driven insight development.
+I'm **Rohan Jha**, an aspiring data analyst with a background in Physics and a strong focus on user behavior, pattern recognition, and decision science. This project is a reflection of both my analytical thinking and narrative-driven insight development.
 
 > *“This report isn't just about bike rides. It's about behavioral data, design thinking, and reshaping how urban mobility is understood.”*
 
