@@ -41,7 +41,9 @@ The dashboard supports multiple filters so users can explore insights on their o
 
 ## 📽️ How to View
 
-- ▶️ **Video Walkthrough**: [Click here to watch the dashboard demo](https://drive.google.com/file/d/1bbQvFRJ6trD9dfYsgzhKXg4Z4KxpQUa9/view?usp=sharing)  
+- ▶️ **Video Walkthrough**: [Click here to watch the dashboard demo](https://drive.google.com/file/d/1bbQvFRJ6trD9dfYsgzhKXg4Z4KxpQUa9/view?usp=sharing)
+- 📈 **[Tableau](https://public.tableau.com/views/CyclisticTheWayofLife_17400687878700/CyclisticRideTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 - 📷 **Screenshots**: Browse the `Dashboard/` folder for static views of key dashboards.
 
 ---
