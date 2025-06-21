@@ -61,10 +61,10 @@ You’ll need the following R packages:
 ```r
 library(tidyverse)
 library(lubridate)
-library(weathercan)
+library(worldmet)
 library(plotly)
 ```
-
+---
 ## 📌 Note
 This is not production-grade code, but analytical code written for a real-world business case scenario with clarity and structure. Feel free to reuse logic with minor edits for your own datasets.
 
